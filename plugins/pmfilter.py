@@ -98,10 +98,10 @@ async def pm_text(bot, message):
                     f"<b>🙋 ʜᴇʏ {user} 😍 ,\n\n"
                     "𝒀𝒐𝒖 𝒄𝒂𝒏 𝒔𝒆𝒂𝒓𝒄𝒉 𝒇𝒐𝒓 𝒎𝒐𝒗𝒊𝒆𝒔 𝒐𝒏𝒍𝒚 𝒐𝒏 𝒐𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑮𝒓𝒐𝒖𝒑. 𝒀𝒐𝒖 𝒂𝒓𝒆 𝒏𝒐𝒕 𝒂𝒍𝒍𝒐𝒘𝒆𝒅 𝒕𝒐 𝒔𝒆𝒂𝒓𝒄𝒉 𝒇𝒐𝒓 𝒎𝒐𝒗𝒊𝒆𝒔 𝒐𝒏 𝑫𝒊𝒓𝒆𝒄𝒕 𝑩𝒐𝒕. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒋𝒐𝒊𝒏 𝒐𝒖𝒓 𝒎𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑 𝒃𝒚 𝒄𝒍𝒊𝒄𝒌𝒊𝒏𝒈 𝒐𝒏 𝒕𝒉𝒆  𝑹𝑬𝑸𝑼𝑬𝑺𝑻 𝑯𝑬𝑹𝑬 𝒃𝒖𝒕𝒕𝒐𝒏 𝒈𝒊𝒗𝒆𝒏 𝒃𝒆𝒍𝒐𝒘 𝒂𝒏𝒅 𝒔𝒆𝒂𝒓𝒄𝒉 𝒚𝒐𝒖𝒓 𝒇𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒎𝒐𝒗𝒊𝒆 𝒕𝒉𝒆𝒓𝒆 👇\n\n"
                     "<blockquote>"
-                    "आप केवल हमारे 𝑴𝒐𝒗𝒊𝒆 𝑮𝒓𝒐𝒖𝒑 पर ही 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 कर सकते हो । "
-                    "आपको 𝑫𝒊𝒓𝒆𝒄𝒕 𝑩𝒐𝒕 पर 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 करने की 𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 नहीं है कृपया नीचे दिए गए 𝑹𝑬𝑸𝑼𝑬𝑺𝑻 𝑯𝑬𝑹𝑬 वाले 𝑩𝒖𝒕𝒕𝒐𝒏 पर क्लिक करके हमारे 𝑴𝒐𝒗𝒊𝒆 𝑮𝒓𝒐𝒖𝒑 को 𝑱𝒐𝒊𝒏 करें और वहां पर अपनी मनपसंद 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 सर्च करें ।"
+                    "ನೀವು ಕೇವಲ 𝑴𝒐𝒗𝒊𝒆 𝑮𝒓𝒐𝒖𝒑 ನಲ್ಲಿ ಮಾತ್ರ 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 ಮಾಡಬಹುದು "
+                    "ನಿಮಗೇ 𝑫𝒊𝒓𝒆𝒄𝒕 𝑩𝒐𝒕 ನಲ್ಲಿ 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 ಮಾಡಲು 𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 ಇಲ್ಲಾ ಹಾಗಾಗಿ ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ 𝑹𝑬𝑸𝑼𝑬𝑺𝑻 𝑯𝑬𝑹𝑬 𝑩𝒖𝒕𝒕𝒐𝒏 ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ನಮ್ಮ 𝑴𝒐𝒗𝒊𝒆 𝑮𝒓𝒐𝒖𝒑 ನ 𝑱𝒐𝒊𝒏 ಆಗಿ ಮತ್ತು ಅಲ್ಲಿಯೇ ನಿಮ್ಮ ನೆಚ್ಚಿನ 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 ಮಾಡಿ."
                     "</blockquote></b>"
-                ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=GRP_LNK)]]))
+                ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=https://t.me/+PimiFSEp1j40MDE9)]]))
             await bot.send_message(chat_id=LOG_CHANNEL,
                                    text=(
                                        f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\n"
@@ -372,7 +372,7 @@ async def advantage_spoll_choker(bot, query):
             except Exception as e:
                 print(f"Error In Spol - {e}   Make Sure Bot Admin BIN CHANNEL")
         btn = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🔰Cʟɪᴄᴋ ʜᴇʀᴇ & ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴀᴅᴍɪɴ🔰", url=OWNER_LNK)]])
+            [[InlineKeyboardButton("🔰Cʟɪᴄᴋ ʜᴇʀᴇ & ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴀᴅᴍɪɴ🔰", url=https://t.me/Contact_Baadshah_bot)]])
         k = await query.message.edit(script.MVE_NT_FND, reply_markup=btn)
         await asyncio.sleep(10)
         await k.delete()
@@ -1413,7 +1413,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton('🖥️ Watch ', url=dreamx_stream)
                     ],
                     [
-                        InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=UPDATE_CHNL_LNK)
+                        InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=https://t.me/Kannada_Cinehub)
                     ]
                 ])
             )
@@ -1568,7 +1568,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ᴅʀᴇᴀᴍxʙᴏᴛᴢ 📜', url='https://github.com/DreamXBotz/Auto_Filter_Bot.git'),
+            InlineKeyboardButton('ᴅʀᴇᴀᴍxʙᴏᴛᴢ 📜', url='https://github.com/IBAADSHAH'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
